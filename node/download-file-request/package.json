@@ -1,0 +1,15 @@
+{
+  "name": "download-file-request",
+  "version": "1.0.0",
+  "description": "Offers download response for 'file' field post request",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <tomas.varga.cz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
